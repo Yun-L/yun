@@ -16,7 +16,7 @@ This is an unofficial keymap for OLKB's Preonic keyboard. For installation, plea
  * |------+------+------+------+------+------|------+------+------+------+------+------|
  * | Shift|   Z  |   X  |   C  |   V  |   B  |   N  |   M  |   ,  |   .  |   /  |SEnter|
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * | Ctrl | GUI  |      | Alt  |Lower |    Space    |Raise | Alt  |      |      | Ctrl |
+ * | Ctrl | GUI  | Caps | Alt  |Lower |    Space    |Raise | Alt  |      |      | Ctrl |
  * `-----------------------------------------------------------------------------------'
  */
 
@@ -30,7 +30,7 @@ This is an unofficial keymap for OLKB's Preonic keyboard. For installation, plea
  * |------+------+------+------+------+------|------+------+------+------+------+------|
  * | Shift|   Z  |   X  |   C  |   V  |   B  |   K  |   M  |   ,  |   .  |   /  |SEnter|
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * | Ctrl | GUI  |      | Alt  |Lower |    Space    |Raise | Alt  |      |      | Ctrl |
+ * | Ctrl | GUI  | Caps | Alt  |Lower |    Space    |Raise | Alt  |      |      | Ctrl |
  * `-----------------------------------------------------------------------------------'
  */
 
@@ -44,7 +44,7 @@ This is an unofficial keymap for OLKB's Preonic keyboard. For installation, plea
  * |------+------+------+------+------+------|------+------+------+------+------+------|
  * | Shift|  ;/: |   Q  |   J  |   K  |   X  |   B  |   M  |   W  |   V  |   Z  | Shift|
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * | Ctrl | GUI  |      | Alt  |Lower |    Space    |Raise | Alt  |      |      | Ctrl |
+ * | Ctrl | GUI  | Caps | Alt  |Lower |    Space    |Raise | Alt  |      |      | Ctrl |
  * `-----------------------------------------------------------------------------------'
  */
 
